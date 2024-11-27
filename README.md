@@ -1,6 +1,6 @@
 hello i'm lundeen! thanks for passing by. you can find my website [here](https://lundeen06.github.io/)
 
-i'm a student at stanford studying engineering physics 🪐 and computer science 🖥️ - i have a load of interests, but recently i've found the most joy in space tech 🛰️, ar 🥽, ai/ml 🤖, design ✨, and philosophy 💭
+i'm a student at stanford studying engineering physics and computer science - i have loads of interests, but recently i've found the most joy in space tech 🛰️, ar 🥽, ai/ml 🤖, design ✨, and philosophy 💭
 
 some things i'm building 🚀: 
 * 🍽️ wafflr - working with [max huang](https://github.com/maxhuang8) (UChicago XC/TF '28) on an ai/ml campus dining app that enables student athletes and those with food restrictions to find healthy and safe meals, while providing universities real-time feedback to improve options and reduce waste
