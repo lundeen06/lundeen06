@@ -1,9 +1,9 @@
 hello i'm lundeen! you can find my website [here](https://lundeen06.github.io/)
 
-i'm a student at stanford studying computer science and dabbling in aerospace - i have loads of interests, but recently i've found the most joy working with satellites, embedded systems, gnc, and ai
+i'm a student at stanford studying computer science and dabbling in aerospace - i have loads of interests, but recently i've found the most joy working with gnc, ai, satellites, and embedded stuff 
 
 **main things i've been working on: 🛰️**
-* 🛰️ [samwise gnc flight code](https://github.com/stanford-ssi/samwise-adcs-flight) - building an adcs system from the ground-up for a 2U cubesat named SAMWISE at the stanford student space initiative. all and structures are designed in-house. launches january 2025 at Vandenberg SFB, so so pumped 
+* 🛰️ [samwise adcs flight code](https://github.com/stanford-ssi/samwise-adcs-flight) - building an adcs system from the ground-up for a 2U cubesat named SAMWISE at the stanford student space initiative. all and structures are designed in-house. launches january 2025 at Vandenberg SFB, so so pumped
 * 🛰️ [samwise adcs simulations](https://github.com/stanford-ssi/samwise-adcs-sims) - 6DOF attitude propagator designed to validate our adcs systems. SAMWISE's digital twin i suppose 🤩
 
 **other small projects:**
