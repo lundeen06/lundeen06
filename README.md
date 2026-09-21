@@ -1,14 +1,22 @@
-Hello, I'm Lundeen!
+# Hello, I'm Lundeen! 👋
 
-I'm a student at Stanford studying computer science and doing aerospace things - I have tons of interests, but recently have found the most joy working on GNC, AI, satellites, and embedded projects.
+I'm a student at Stanford studying computer science and doing aerospace things. I have tons of interests, but recently I've found the most joy working on GNC, AI, satellites, and embedded projects.
 
 **What I'm working on:**
-* 🛰️ [samwise gnc flight code](https://github.com/stanford-ssi/samwise-adcs-flight) - Attitude Determination & Control System (ADCS) built from the ground up for a 2U Cubesat called SAMWISE. This is a low-cost bus (<10k/unit) with cameras, reaction wheels, a star tracker, S-band comms, and more. In-house design of all subsystems enables us to bring the cost way down. Launching in October 2026.
 
+* 🛰️ [SAMWISE GNC flight code](https://github.com/stanford-ssi/samwise-adcs-flight) — Attitude Determination & Control System (ADCS) software built from the ground up for SAMWISE, Stanford SSI's 2U CubeSat. We're building a low-cost bus (<$10k/unit!) with cameras, reaction wheels, a star tracker, S-band comms, and lots more. Launching in October 2026!
 
-**Previously:**
-* 🌲 [starguard](https://github.com/lundeen06/treesats) - Debris detection, collision avoidance, and adversarial threat assessment using edge compute for commercial satellites.
-* 🌠 [node](https://github.com/lundeen06/node) - AI-enabled satellite constellation management tool ([silicon valley natsec hackathon](https://cerebralvalley.ai/e/3rd-annual-natsec-hackathon) project)
-* 🛰️ [samwise gnc simulations](https://github.com/stanford-ssi/samwise-adcs-sims) - 6DOF attitude propagator designed to validate our ADCS.
-* 🧲 [magnetorquer optimizer](https://github.com/lundeen06/magtorq-designer) - Full-stack KiCAD design optimization software for PCB-based magnetorquers. Used for SAMWISE.
-*\*last updated: april 2026*
+**A few projects I love:**
+
+* ☀️ [smarter sun sensors](https://github.com/lundeen06/smarter-sun-sensors) — Recovering a nadir vector from coarse sun sensors by modeling reflected Earth light. It's a wonderfully strange inference problem, and a path toward cheaper, more fault-tolerant satellites.
+* 🌲 [TreeSats / Starguard](https://github.com/lundeen06/treesats) — Onboard debris detection, collision avoidance, and adversarial threat assessment for satellites operating without GPS or ground contact.
+* 🌠 [NODE](https://github.com/lundeen06/node) — An AI-enabled satellite constellation operations platform built at the [2026 National Security Hackathon](https://cerebralvalley.ai/e/3rd-annual-natsec-hackathon), with orbital visualization, conjunction screening, and operator-gated maneuver planning.
+
+**Tools that escaped the lab:**
+
+* 🧭 [MAGCAL](https://github.com/lundeen06/magnetometer-calibration-tool) — A packaged Python CLI for ellipsoid-fit magnetometer calibration that exports parameters straight to embedded C.
+* 🧲 [magnetorquer designer](https://github.com/lundeen06/magnetorquer-designer) — Physics, thermal, and manufacturing optimization for PCB magnetorquers, plus automated KiCad trace generation. Built for SAMWISE!
+* 🌀 [SAMWISE GNC simulations](https://github.com/stanford-ssi/samwise-adcs-sims) — A 6-DOF attitude propagator for validating our flight algorithms.
+* 📆 [WhenNot2Meet](https://when2notmeet.com) — Mark when you can't meet. Meet. Repeat.
+
+I like ambitious systems, cheap hardware doing surprisingly smart things, and projects where software eventually has to face physics. If you're working on something in that neighborhood, I'd love to hear about it :)
